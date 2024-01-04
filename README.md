@@ -1,8 +1,6 @@
 # Linux-Enumeration-and-Privilege-Escalation
 
-# L****inux_enumeration_and_privilege_escalation****
 
-# Linux Enumeration and Privilege Escalation
 
 ## Enumeration
 
